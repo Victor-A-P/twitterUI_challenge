@@ -40,13 +40,12 @@ No external dependencies are required; the project uses only SwiftUI.
 - For a quick look, watch the demo video included in the repository.
 
   
-https://github.com/user-attachments/assets/86d067c7-7a4b-46ff-9e21-882115af50d7
+
 
 
 <details>
   <summary>Demo Video</summary>
-
-  ![Simulator Screen Recording](https://private-user-images.githubusercontent.com/75404970/440899974-86d067c7-7a4b-46ff-9e21-882115af50d7.mp4)
+https://github.com/user-attachments/assets/86d067c7-7a4b-46ff-9e21-882115af50d7
 </details>
 
 ## Technologies Used
