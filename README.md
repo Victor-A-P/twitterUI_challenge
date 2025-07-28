@@ -9,8 +9,6 @@ This repository documents a personal challenge I took on while learning SwiftUI:
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Maintenance](#maintenance)
 
 ## Features
 
